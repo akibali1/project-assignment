@@ -57,6 +57,9 @@
       max-width: 1000px;
       margin: auto;
     }
+    *{
+      box-sizing: border-box;
+    }
 
     /* About */
     .about {
